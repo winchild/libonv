@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repo/earthquake_data_send/!svn/ver/44/trunk/src/libonv
+END
+slib.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repo/earthquake_data_send/!svn/ver/2/trunk/src/libonv/slib.h
+END
+config_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repo/earthquake_data_send/!svn/ver/37/trunk/src/libonv/config_parser.c
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repo/earthquake_data_send/!svn/ver/2/trunk/src/libonv/log.c
+END
+misclib.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/earthquake_data_send/!svn/ver/44/trunk/src/libonv/misclib.c
+END
+onvsock.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/earthquake_data_send/!svn/ver/20/trunk/src/libonv/onvsock.c
+END
+config_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repo/earthquake_data_send/!svn/ver/2/trunk/src/libonv/config_parser.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repo/earthquake_data_send/!svn/ver/28/trunk/src/libonv/log.h
+END
+misclib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/earthquake_data_send/!svn/ver/37/trunk/src/libonv/misclib.h
+END
+onvsock.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/earthquake_data_send/!svn/ver/20/trunk/src/libonv/onvsock.h
+END
+onvmysql.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/earthquake_data_send/!svn/ver/16/trunk/src/libonv/onvmysql.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repo/earthquake_data_send/!svn/ver/37/trunk/src/libonv/Makefile
+END
+onvmysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repo/earthquake_data_send/!svn/ver/16/trunk/src/libonv/onvmysql.h
+END
+tags
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repo/earthquake_data_send/!svn/ver/2/trunk/src/libonv/tags
+END
